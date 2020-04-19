@@ -36,5 +36,5 @@ ES6 Features;
 
 
 <p align="center">
-    <img src="https://s3-sa-east-1.amazonaws.com/rocketseat-cdn/rocketseat_logo_roxa.png" alt="Logo">
+    <img src="https://drive.google.com/file/d/1YkIhMlT6DYg8FXTTRwacEzxMkKRm5p_8/view?usp=sharing" alt="Demo">
 </p>
