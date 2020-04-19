@@ -36,5 +36,5 @@ ES6 Features;
 
 
 <p align="center">
-    <video src="https://i.imgur.com/NGLtq8T.mp4" alt="Demo">
+    <img src="https://media.giphy.com/media/lOgieP2jimG7sLE6FE/giphy.gif" alt="Demo">
 </p>
