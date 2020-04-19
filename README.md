@@ -34,7 +34,7 @@ ES6 Features;
 * You need to start the server too, by typing ```adb reverse tcp:3000 tcp:3000``` inside the path ```~/Android/sdk/platform-tools/```;
 * Run the emulator.
 
-
+## Demo
 <p align="center">
     <img src="https://media.giphy.com/media/lOgieP2jimG7sLE6FE/giphy.gif" alt="Demo">
 </p>
