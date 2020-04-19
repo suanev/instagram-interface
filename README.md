@@ -36,6 +36,5 @@ ES6 Features;
 
 
 <p align="center">
-    <img src="https://drive.google.com/file/d/1YkIhMlT6DYg8FXTTRwacEzxMkKRm5p_8/view?usp=sharing" alt="Demo">
-  <blockquote class="imgur-embed-pub" lang="en" data-id="a/D6ZsZhI"><a href="//imgur.com/a/D6ZsZhI"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+    <img src="https://imgur.com/NGLtq8T" alt="Demo">
 </p>
