@@ -35,4 +35,6 @@ ES6 Features;
 * Run the emulator.
 
 
-<a href="https://drive.google.com/open?id=1F2L4bne9fWThvX1_4om-cv_U_Zd6YK-O">Demo</a>
+<p align="center">
+    <img src="https://s3-sa-east-1.amazonaws.com/rocketseat-cdn/rocketseat_logo_roxa.png" alt="Logo">
+</p>
